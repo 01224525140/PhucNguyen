@@ -1,0 +1,5 @@
+Swiperjs.com : Tạo hoạt ảnh slider 2d or 3d
+https://kenwheeler.github.io/slick/ : tạo slider 2d
+colorlib.com : Một số trang web tham khảo để làm
+https://bennettfeely.com/clippy/ Tạo nền border tùy chọn ( ví dụ tạo mũi tên các kiểu)
+materialize : giống bootstrap 4 ( đẹp hơn)
