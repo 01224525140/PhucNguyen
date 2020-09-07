@@ -1,0 +1,7 @@
+ <h1>Tôi tên là
+    <span
+       class="text"
+       data-period="4000"
+       data-rotate='[ "Phuc.", "Nga.", "pure JS.", "pretty.", "fun!" ]'></span>
+
+  </h1>

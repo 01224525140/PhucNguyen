@@ -1,0 +1,7 @@
+<div class="container">
+  <div class="card">
+    <div >
+    <img src="/resource/Img/09.PNG">
+  </div>
+  <div class="content"> Tôi là Fuck</div>
+</div>
