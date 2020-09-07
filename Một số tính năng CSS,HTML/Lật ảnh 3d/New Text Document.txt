@@ -1,0 +1,9 @@
+ <div class="card-middle">
+         <div class="front">
+           <img src="/resource/Img/09.PNG">
+         </div>
+         <div class="content-card">
+           <h1>Chào Fuck</h1>
+           <p>Tôi là fuck của Nga</p>
+         </div>
+   </div>  
