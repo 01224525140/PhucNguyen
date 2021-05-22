@@ -3,3 +3,4 @@ https://kenwheeler.github.io/slick/ : tạo slider 2d
 colorlib.com : Một số trang web tham khảo để làm
 https://bennettfeely.com/clippy/ Tạo nền border tùy chọn ( ví dụ tạo mũi tên các kiểu)
 materialize : giống bootstrap 4 ( đẹp hơn)
+https://michalsnik.github.io/aos/?fbclid=IwAR1iNTB5EN_bi3jI8NEJfmfV7H5pis9yjd4A2E0ZV2KMlGaiQcCox3a1mQ4: Tạo scroll library kiểu trượt element vào 
